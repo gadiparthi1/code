@@ -1,0 +1,7 @@
+faculty\repository\CommitteeMemberRepository.class
+faculty\bean\User.class
+faculty\service\CommitteeMemberService.class
+faculty\bean\CommitteeMember.class
+faculty\controller\AddCommitteeMember.class
+faculty\WebConfig.class
+faculty\Application.class
